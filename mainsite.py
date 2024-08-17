@@ -13,7 +13,7 @@ st.subheader("welcome to February 96 Official Webpage!")
 st.title("About February 96")
 st.write("february 96 is a romhack that is suppost to be a cartoony/beta version of sm64, the first romhack was being worked on in october 28, 2023 but i have now started from scratch since that romhack sucked")
 st.write("- Ilya Mynaev the creator of February 96")
-st.write("[join the February 96 team >>](https://forms.gle/UkwKhFnkX8Fv4Dzu9)")
+st.write("[join the February 96 team >>](https://forms.gle/gLRCovKstqq48aXN6)")
 
 # column section
 with st.container():
