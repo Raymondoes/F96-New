@@ -23,7 +23,7 @@ with st.container():
         st.header("February 96")
         st.write("##")
         st.write("""to simplify on what February 96 was about, February 96 is a ROM Hack created by Ilya Mynaev and it is supposed to be a cartoony/beta version of SM64, the first Rom Hack was worked on in October 28.
-        but the Creator decided to start from Scratch in order to rework and make it look better, after the official Rom is released this website will be updated with the invite link.
+        but the Creator decided to start from Scratch in order to rework and make it look better, after the official Rom is released this website will be updated with the download link.
         to make it happen faster, we need more capable devs in the Team to accomplish the Rom Hack.
         """
         )
